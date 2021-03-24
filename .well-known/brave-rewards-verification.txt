@@ -1,1 +1,4 @@
+This is a Brave Rewards publisher verification file.
 
+Domain: cristhianmercy.com
+Token: 4bacf38a4f0a65065dd03d0fe0e3ddbba86693b0fe757e70fbd3fe2a9f80674b
